@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/BubbleChartDataAdapter/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/BubbleChartDataAdapter/MainWindow.xaml))**
+<!-- default file list end -->
 # How to customize chart data source adapter parameters
 
 
